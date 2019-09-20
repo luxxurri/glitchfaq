@@ -1,4 +1,8 @@
 # Glitch Unofficial FAQ
+> An unofficial FAQ (Frequently Asked Questions) for Glitch.com
+
+* Use `Ctrl` + `F` or `Command` + `F` to search for a question.
+* Contributions are appreciated.
 
 ## How can I delete my account?
 User account deletion is a manual process right now. Send an email to `support@glitch.com` regarding deletion of your account or you can create a new topic on [Glitch Support](support.glitch.com).
