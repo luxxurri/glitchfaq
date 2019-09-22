@@ -17,10 +17,10 @@ Whenever you delete a project it’s not gone forever. It’s actually really si
 The other way of undeleting a project is to simply scroll down to the Deleted Projects :bomb: section of your profile. There you can find a list of every single project that you’ve deleted, and buttons to undelete them.
 
 ## Which languages and frameworks are supported on Glitch?
-Glitch only supports Node.js, however, it is possible to integrate others.
+Glitch officially supports Node.js only. However, it is possible to integrate other languages or frameworks.
 
 ## Can I make my project stay online?
-You may have noticed that glitch projects shut off after about 5min of not being open. This may be an issue for some people. You can solve this be pinging your bot with an external site. People like [uptime robot](https://uptimerobot.com) but others such as [cron-job.org](https://cron-job.org) work. Note your prject will reboot after 12h but is barely noticable, unless you have a big startup time.
+You may have noticed that glitch app shuts off after about 5 minutes of not being open. You can solve this be pinging your bot with an external site. Services, such as [Uptime Robot](https://uptimerobot.com), [cron-job.org](https://cron-job.org), etc. can be utilized to achieve that. Note that your app will reboot after 12 hours but is barely noticable, unless you have a big startup time.
 
 ## I need more help!
-Try the offical [glitch FAQ](https://glitch.com/help) or ask on the [glitch support site](https://support.glitch.com/)
+Try the offical [Glitch FAQ](https://glitch.com/help) (if the question is not answered or present), ask on the [Glitch Forums](https://support.glitch.com).
