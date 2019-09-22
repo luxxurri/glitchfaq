@@ -14,7 +14,7 @@ Tutorial on [creating a make-do web server using Express](https://support.glitch
 
 ## I deleted my project. How can I get it back?
 Whenever you delete a project it’s not gone forever. It’s actually really simple to un-delete. One way is to wait for the " Deleted" notification that pops up in your project editor, in which you can then click Undo 💣. This feature is not an original Glitch feature, meaning that it did not exist when Glitch was first released.
-The other way of undeleting a project is to simply scroll down to the Deleted Projects :bomb: section of your profile. There you can find a list of every single project that you’ve deleted, and buttons to undelete them.
+The other way of undeleting a project is to simply scroll down to the Deleted Projects :bomb: section of your profile. There you can find a list of every single project that you’ve deleted, and buttons to undelete them. You might also have an unstable internet connection.
 
 ## Which languages and frameworks are supported on Glitch?
 Glitch officially supports Node.js only. However, it is possible to integrate other languages or frameworks.
