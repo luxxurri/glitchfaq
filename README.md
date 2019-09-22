@@ -18,3 +18,9 @@ The other way of undeleting a project is to simply scroll down to the Deleted Pr
 
 ## Which languages and frameworks are supported on Glitch?
 Glitch only supports Node.js, however, it is possible to integrate others.
+
+## Can I make my project stay online?
+You may have noticed that glitch projects shut off after about 5min of not being open. This may be an issue for some people. You can solve this be pinging your bot with an external site. People like [uptime robot](https://uptimerobot.com) but others such as [cron-job.org](https://cron-job.org) work. Note your prject will reboot after 12h but is barely noticable, unless you have a big startup time.
+
+## I need more help!
+Try the offical [glitch FAQ](https://glitch.com/help) or ask on the [glitch support site](https://support.glitch.com/)
